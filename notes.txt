@@ -1,0 +1,18 @@
+# create react app
+- npm create vite@latest
+
+# install tailwind css packages in react app
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
+
+# install react router DOM
+- npm i react-router-dom
+
+# install react icons
+- npm i react-icons
+
+# install mongodb
+- npm i mongoose
+
+# install dotenv
+- npm i dotenv
