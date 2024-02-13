@@ -5,7 +5,7 @@
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init -p
 
-# install react router DOM
+# install react router DOM to create navigation
 - npm i react-router-dom
 
 # install react icons
@@ -14,5 +14,8 @@
 # install mongodb
 - npm i mongoose
 
-# install dotenv
+# install dotenv to protect db link with .env file
 - npm i dotenv
+
+# install bcryptjs to protect passwords in db (hash passwords)
+- npm i bcryptjs
